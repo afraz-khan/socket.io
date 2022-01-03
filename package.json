@@ -1,0 +1,23 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afraz-khan/socket.io.git"
+  },
+  "author": "Afraz Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afraz-khan/socket.io/issues"
+  },
+  "homepage": "https://github.com/afraz-khan/socket.io#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "socket.io": "^4.4.0"
+  }
+}
